@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: yolov7
+Version: 0.0.0
+Summary: A port and simplification of YOLOv9 model by Kin-Yiu, Wong
+Author-email: Flowstate <dev@flowstate.zone>
+License: BSD-3-Clause
+Keywords: one,two
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.11
+Description-Content-Type: text/x-rst
+Requires-Dist: gitpython
+Requires-Dist: ipython
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: Pillow
+Requires-Dist: PyYAML
+Requires-Dist: requests
+Requires-Dist: scipy
+Requires-Dist: thop
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: tqdm
+Requires-Dist: protobuf
+Requires-Dist: tensorboard
+Requires-Dist: clearml
+Requires-Dist: comet
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: wandb
