@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: yolov7
+Name: yolov9
 Version: 0.0.0
 Summary: A port and simplification of YOLOv9 model by Kin-Yiu, Wong
 Author-email: Flowstate <dev@flowstate.zone>
@@ -14,6 +14,7 @@ Requires-Dist: matplotlib
 Requires-Dist: numpy
 Requires-Dist: opencv-python
 Requires-Dist: Pillow
+Requires-Dist: psutil
 Requires-Dist: PyYAML
 Requires-Dist: requests
 Requires-Dist: scipy
@@ -28,3 +29,5 @@ Requires-Dist: comet
 Requires-Dist: pandas
 Requires-Dist: seaborn
 Requires-Dist: wandb
+Requires-Dist: albumentations
+Requires-Dist: pycocotools

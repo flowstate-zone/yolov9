@@ -37,6 +37,9 @@ dependencies = [
     "pandas",
     "seaborn",
     "wandb",
+    "albumentations",
+    "pycocotools"
+
 ]
 
 dynamic = ["version"]

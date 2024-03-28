@@ -4,6 +4,7 @@ matplotlib
 numpy
 opencv-python
 Pillow
+psutil
 PyYAML
 requests
 scipy
@@ -18,3 +19,5 @@ comet
 pandas
 seaborn
 wandb
+albumentations
+pycocotools
