@@ -27,7 +27,7 @@ Requires-Dist: tensorboard
 Requires-Dist: clearml
 Requires-Dist: comet
 Requires-Dist: pandas
-Requires-Dist: seaborn
 Requires-Dist: wandb
+Requires-Dist: seaborn
 Requires-Dist: albumentations
 Requires-Dist: pycocotools

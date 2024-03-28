@@ -3,8 +3,10 @@ pyproject.toml
 setup.py
 src/__init__.py
 src/yolov9/__init__.py
+src/yolov9/README.md
 src/yolov9/benchmarks.py
 src/yolov9/detect.py
+src/yolov9/detect_dual.py
 src/yolov9/export.py
 src/yolov9/train.py
 src/yolov9/train_dual.py
@@ -37,6 +39,7 @@ src/yolov9/utils/augmentations.py
 src/yolov9/utils/autoanchor.py
 src/yolov9/utils/autobatch.py
 src/yolov9/utils/callbacks.py
+src/yolov9/utils/coco_utils.py
 src/yolov9/utils/dataloaders.py
 src/yolov9/utils/downloads.py
 src/yolov9/utils/general.py
@@ -86,4 +89,3 @@ src/yolov9/utils/segment/tal/assigner.py
 src/yolov9/utils/tal/__init__.py
 src/yolov9/utils/tal/assigner.py
 src/yolov9/utils/tal/anchor.py
-src/yolov9/utils/tal/assigner.py
